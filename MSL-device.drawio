@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T11:05:47.142Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-y6K-u0fdJTnEtAEiQY8" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T11:07:37.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Mz18vAbSVopyaAZY17Kv" version="21.3.4" type="github">
   <diagram name="Page-1" id="tERBL7abkQcyMz6uXpok">
-    <mxGraphModel dx="1468" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="502" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="YQgA8BbC_IsL7PBCzcFo-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YQgA8BbC_IsL7PBCzcFo-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Brand: HP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model: 11 G6&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;S/N:ODFDFD001&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Expire:12/12/2027&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
+        <mxCell id="YQgA8BbC_IsL7PBCzcFo-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Label-ID:MSL#CB01&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Brand: HP&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model: 11 G6&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;S/N:ODFDFD001&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Expire:12/12/2027&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" vertex="1" parent="1">
           <mxGeometry x="180" y="80" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YQgA8BbC_IsL7PBCzcFo-21" value="Working" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YQgA8BbC_IsL7PBCzcFo-20" target="YQgA8BbC_IsL7PBCzcFo-15">
